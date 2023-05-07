@@ -1,0 +1,86 @@
+{
+    "explorer.confirmDragAndDrop": false,
+    "files.autoSave": "afterDelay",
+    "FSharp.suggestGitignore": false,
+    "workbench.colorTheme": "Palenight (Mild Contrast)",
+    "git.autofetch": true,
+    "files.associations": {
+        "*.fragmentshader": "glsl",
+        "*.vertexshader": "glsl"
+    },
+    "glsllint.glslangValidatorPath": "C:\\Users\\User\\Downloads\\glslang-master-windows-x64-Debug\\bin\\glslangValidator.exe",
+    "glsllint.additionalStageAssociations": {
+
+
+    
+        ".vertexshader" : "vert",
+        ".fragmentshader" : "frag",
+        ".glsl" : "vert"
+    },
+    "editor.detectIndentation": false,
+    "cmake.configureOnOpen": false,
+    "glsllint.fallBackStage": "vert",
+    "C_Cpp.vcFormat.indent.accessSpecifiers": true,
+    "git.confirmSync": false,
+    "vim.statusBarColorControl": false, // NOTE - Change this when I want statusbar colours
+    "vim.statusBarColors.normal": ["#8be9fd", "#434C5E"],
+    "vim.statusBarColors.insert": ["#ff5555", "#ffffff"],
+    "vim.statusBarColors.visual": "#bd93f9",
+    "vim.statusBarColors.visualline": "#ffb86c",
+    "vim.statusBarColors.visualblock": "#50fa7b",
+    "vim.statusBarColors.replace": "#D08770",
+    "vim.statusBarColors.commandlineinprogress": "#007ACC",
+    "vim.statusBarColors.searchinprogressmode": "#007ACC",
+    "vim.statusBarColors.easymotionmode": "#007ACC",
+    "vim.statusBarColors.easymotioninputmode": "#007ACC",
+    "vim.statusBarColors.surroundinputmode": "#007ACC",
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#292D3E",
+        "statusBar.noFolderBackground": "#292D3E",
+        "statusBar.debuggingBackground": "#292D3E",
+        "statusBar.foreground": "#697098",
+        "statusBar.debuggingForeground": "#697098"
+    },
+    "editor.fontFamily": "JetBrainsMono NF, Inconsolata, 'Courier New', monospace",
+    "editor.minimap.enabled": false,
+    "git.enableSmartCommit": true,
+    "vscord.app.name": "Visual Studio Code",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.editorAssociations": {
+        "*.obj": "default"
+    },
+    "vscode_custom_css.imports": [
+        "D:/vscode-powerline/powerline.css"
+    ],
+    "git.openRepositoryInParentFolders": "always",
+    "arduino.useArduinoCli": true,
+    "todohighlight.defaultStyle": {
+        "backgroundColor": "#BF616A"
+    },
+    "todohighlight.keywords": [
+        {
+            "text": "TODO",
+            "color": "#ff5555",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "fontWeight" : "bold",
+        },
+        {
+            "text": "NOTE",
+            "color": "#bd93f9",
+            "backgroundColor": "rgba(0,0,0,0)",
+            "fontWeight" : "bold",
+        }
+    ],
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "maptz.regionfolder": {
+
+    },
+    "explorer.confirmDelete": false,
+    "workbench.activityBar.visible": false,
+    "window.zoomLevel": 1,
+    "window.menuBarVisibility": "compact",
+    "workbench.layoutControl.enabled": false,
+}
